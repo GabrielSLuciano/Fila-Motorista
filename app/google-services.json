@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "88332111867",
+    "firebase_url": "https://fila-motorista-default-rtdb.firebaseio.com",
+    "project_id": "fila-motorista",
+    "storage_bucket": "fila-motorista.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88332111867:android:0d74d8e834ae9e4760c55e",
+        "android_client_info": {
+          "package_name": "com.gabsistemas.filamotorista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYRibThKU_w5mG0p5RUO2oK9vYJDm-ijk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
